@@ -1,0 +1,13 @@
+Team,Category,Goals,Expected Goals,Goals vs Expected,Entries,Successful Entries,Entry Rate,Denials,Denial Rate,Total Entries,Faceoff Wins,Total Faceoffs,Faceoff Win Rate,Shots,Shots on Net,Danger Zone Shots,Non-Danger Shots,Shot Danger Rate,Takeaways,Blocked,Total Score,PP Opportunities,PP Success Rate,Carried,Dumped,Carried Rate,Dumped Rate,Carried Rate Weight,Dumped Rate Weight
+Olympic (Women) - Canada,shorthanded,0,0.47,-0.47,11,10,0.91,42,3.82,11,13,25,0.52,8,5,1,7,0.12,21,0,169.91,0,0.00,10,0,0.91,0.00,9.09,0.00
+Olympic (Women) - Canada,powerplay,4,11.70,-7.70,63,53,0.84,12,0.19,63,49,68,0.72,111,53,19,92,0.17,12,15,514.44,5,0.80,41,12,0.65,0.19,6.51,1.90
+Olympic (Women) - Canada,even_strength,14,19.29,-5.29,341,306,0.90,196,0.57,341,128,220,0.58,239,102,32,207,0.13,143,62,1747.96,0,0.00,188,118,0.55,0.35,5.51,3.46
+Olympic (Women) - Finland,shorthanded,0,0.17,-0.17,1,1,1.00,8,8.00,1,2,9,0.22,2,2,1,1,0.50,3,1,124.07,0,0.00,1,0,1.00,0.00,10.00,0.00
+Olympic (Women) - Finland,powerplay,0,0.72,-0.72,12,10,0.83,5,0.42,12,4,16,0.25,8,4,0,8,0.00,3,1,66.93,5,0.00,5,5,0.42,0.42,4.17,4.17
+Olympic (Women) - Finland,even_strength,1,2.77,-1.77,40,38,0.95,34,0.85,40,17,41,0.41,35,17,4,31,0.11,22,10,260.50,0,0.00,23,15,0.57,0.38,5.75,3.75
+Olympic (Women) - Olympic Athletes from Russia,shorthanded,0,0.05,-0.05,0,0,0.00,38,0.00,0,5,8,0.62,1,0,0,1,0.00,10,1,43.50,0,0.00,0,0,0.00,0.00,0.00,0.00
+Olympic (Women) - Olympic Athletes from Russia,powerplay,0,1.26,-1.26,7,6,0.86,1,0.14,7,1,25,0.04,11,6,3,8,0.27,1,20,97.27,5,0.00,3,3,0.43,0.43,4.29,4.29
+Olympic (Women) - Olympic Athletes from Russia,even_strength,0,3.53,-3.53,75,70,0.93,61,0.81,75,21,75,0.28,47,20,3,44,0.06,47,31,421.25,0,0.00,47,23,0.63,0.31,6.27,3.07
+Olympic (Women) - United States,shorthanded,0,0.10,-0.10,5,5,1.00,20,4.00,5,5,8,0.62,2,1,0,2,0.00,3,0,97.75,0,0.00,4,1,0.80,0.20,8.00,2.00
+Olympic (Women) - United States,powerplay,1,3.78,-2.78,22,20,0.91,3,0.14,22,14,27,0.52,37,19,5,32,0.14,7,6,183.63,5,0.20,17,3,0.77,0.14,7.73,1.36
+Olympic (Women) - United States,even_strength,2,11.59,-9.59,159,135,0.85,48,0.30,159,54,104,0.52,145,69,18,127,0.12,70,19,791.14,0,0.00,107,28,0.67,0.18,6.73,1.76
